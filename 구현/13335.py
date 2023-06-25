@@ -15,3 +15,4 @@ while bridge:
         else:
             bridge.append(0)
 print(time)
+
